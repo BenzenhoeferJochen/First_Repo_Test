@@ -1,4 +1,4 @@
-﻿# First_Repo_Test
+# First_Repo_Test
 
 Willkommen zu **First_Repo_Test** – einem ersten Test-Repository! 🎉
 
